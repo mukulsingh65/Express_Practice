@@ -1,0 +1,14 @@
+{
+  "name": "expresscode",
+  "version": "1.0.0",
+  "description": "In this we make some codes using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
